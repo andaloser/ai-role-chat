@@ -1,1 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Sessions data
 /sessions
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
